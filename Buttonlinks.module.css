@@ -1,0 +1,24 @@
+.butt {
+    font-size: 1rem;
+    color: rgb(14, 13, 13);
+    font-weight: bold;
+    background-color: #0081C4;
+    border: none;
+    border-radius: 100px;
+    width: fit-content;
+    padding: .5rem 2rem;
+
+}
+
+.butt:hover {
+    background-color: #9a0000;
+    cursor: pointer;
+}
+
+.butt a {
+    
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    text-decoration: none;
+    margin: auto;
+}
